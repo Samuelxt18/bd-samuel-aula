@@ -1,4 +1,4 @@
-const database= 'bd3-samuel-aula';
+const database= 'BD3-SAMUEL-AULA';
 
 const collection = 'LIVRARIA';
 

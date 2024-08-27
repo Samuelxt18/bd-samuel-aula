@@ -1,6 +1,6 @@
 /**NOME DO BANCO DE DADOS */
 
-const database= 'bd3-samuel-aula'
+const database= 'BD3-SAMUEL-AULA';
 
 // NOME DO BANCO DA COLEÇÃO DE DADOS
 
