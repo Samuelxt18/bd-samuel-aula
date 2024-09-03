@@ -5,6 +5,6 @@ const collection = 'LIVRARIA';
 use(database);
 
 db[collection].find(
-    {"descricao": /crime/i},
-    { "_id": 0, "codigo": 0 } 
+    { 'Jhon Ronald Reuel Tolkien'}
+    
 );
